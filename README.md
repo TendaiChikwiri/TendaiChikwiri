@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 <!-- <h1 align="center">Hi, I'm Tendai Chikwiri</h1>
 <h3 align="center">Front-end Web Designer and Developer</h3>
+=======
+<h1 align="center">Hi, I'm Tendai Chikwiri</h1>
+<h3 align="center">Front-end Web Developer</h3>
+>>>>>>> bdbb32dd73eb49c1c25c062d1dda27afa653a711
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tendaichikwiri&label=Profile%20views&color=0e75b6&style=flat" alt="tendaichikwiri" /> </p>
 
