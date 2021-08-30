@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <!-- <h1 align="center">Hi, I'm Tendai Chikwiri</h1>
 <h3 align="center">Front-end Web Designer and Developer</h3>
 =======
